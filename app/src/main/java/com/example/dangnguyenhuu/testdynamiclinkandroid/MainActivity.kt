@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
             val tabIntent = builder.setShowTitle(true)
                     .enableUrlBarHiding().build()
 
-            tabIntent.launchUrl(this, Uri.parse("https://qiita.com/hikariraina/items/d60eb06c7b30e7833133"))
+            tabIntent.launchUrl(this, Uri.parse("https://qiita.com/hikariraina/items/1fb65805b57cff557d5e"))
         }
 
 
